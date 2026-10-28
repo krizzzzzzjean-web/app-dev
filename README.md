@@ -1,5 +1,5 @@
 # app-dev
-My First RepositorY
+My First Repository
 
 **My Favorite Movies**
 1. What is True Love?
